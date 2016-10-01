@@ -3,7 +3,7 @@ public class HelloGitHub {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-			System.out.println("HelloGitHub, I'm developer 2!");
+			System.out.println("HelloGitHub, I'm developer 3!");
 	}
 
 }
